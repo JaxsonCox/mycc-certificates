@@ -33,4 +33,4 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 
 ---
 
->  **Certificate Verification:** You can view my verified certificate or credentials [here](https://learn.microsoft.com/api/credentials/share/en-us/JaxsonCox-6560/7A18BC5F69C5207E?sharingId=9FE9140EF2C74F99)
+>  **Certificate Verification:** You can view my verified certificate or credentials [here](file:///C:/Users/jaxso/Downloads/Credentials%20-%20jaxsoncox-6560%20_%20Microsoft%20Learn.pdf)
