@@ -23,3 +23,14 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 ---
 
 >  **Certificate Verification:** You can view my verified certificate or credentials [here](https://github.com/JaxsonCox/mycc-certificates/blob/main/Net%20I%20Cert%208.2026%20155.pdf).
+
+| Certificate Details | Summary |
+| :--- | :--- |
+| **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
+| **Program/Course** | Microsoft Certified: Azure AI Fundamentals |
+| **Date Completed** | *November 3, 2026* |
+| **Key Skills Acquired** | Identify AI concepts and capabilities, Implement AI solutions with Microsoft Foundry |
+
+---
+
+>  **Certificate Verification:** You can view my verified certificate or credentials [here](https://learn.microsoft.com/api/credentials/share/en-us/JaxsonCox-6560/7A18BC5F69C5207E?sharingId=9FE9140EF2C74F99)
